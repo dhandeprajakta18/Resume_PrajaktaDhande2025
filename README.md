@@ -1,14 +1,18 @@
-# Prajakta Dhande – Resume 2025
+# 💼 Prajakta Dhande – Resume 2025
 
-Welcome to my resume repository. This PDF outlines my academic background, technical skills, and project experience in full-stack web development.
+Welcome to my professional resume repository.
 
-📄 [Download Resume](Resume.PrajaktaDhande2025.pdf)
+📄 [Click here to view/download my resume (PDF)](https://github.com/dhandeprajakta18/Resume_PrajaktaDhande2025/blob/main/Resume.PrajaktaDhande2025.pdf)
 
-## Skills
+## 🚀 Skills & Technologies
+- **Languages**: Java, JavaScript (ES6+)
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap
+- **Backend**: Spring Boot, RESTful APIs
+- **Database**: MySQL, SQL
+- **Tools**: Git, GitHub, Postman, Maven, VS Code
+- **Design & Productivity**: Canva, Figma (Basic), Microsoft Office
 
-- **Languages**: Java, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks**: React.js, Spring Boot
-- **Tools**: Git, GitHub, Postman, VS Code
-- **Databases**: MySQL
-
-Feel free to reach out for collaboration or opportunities!
+## 📫 Connect with me
+- 📧 Email: dhandeprajakta18@gmail.com  
+- 🌐 GitHub: [@dhandeprajakta18](https://github.com/dhandeprajakta18)
+- 🔗 LinkedIn: [linkedin.com/in/prajakta-dhande](www.linkedin.com/in/prajakta-dhande-167357320)
